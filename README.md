@@ -33,10 +33,9 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projeto em Destaque
 
-- 📽️ **Analisador de Vídeos com IA** com Python + Whisper + OpenAI API   
-- 📊 **Dashboard analítico interativo** com Python + Django + pandas + Numpy + ChartJS + HTML + CSS
+- 🤖 **Gerenciador de campanha de RPG** com Python + LangChain + LangSmith + API Rest + IA
 
 ---
 
